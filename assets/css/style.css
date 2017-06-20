@@ -131,4 +131,16 @@ ul li a {
 }
 
 
-/* section tres */
+/* section 4 */
+
+#section-cuatro {
+    margin-bottom: 50px;
+}
+
+.mrg-top {
+    margin-top: 50px;
+}
+
+.subir {
+    margin-top: -120px;
+}
