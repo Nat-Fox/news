@@ -27,3 +27,39 @@ ul li a {
     background-color: transparent;
     border: 0 solid transparent;
 }
+
+
+/* linea */
+
+hr {
+    border: 1px solid #eb4646;
+}
+
+.first-line {
+    width: 10%;
+    margin-bottom: -20px;
+    border: 2px solid #eb4646;
+}
+
+
+/* Estilos para el home */
+
+.no-padding [class*="col-"] {
+    padding: 0;
+}
+
+.img-1 {
+    width: 100%
+}
+
+.img-2 {
+    width: 140%;
+    margin-bottom: 45px;
+}
+
+.img-3,
+.img-4 {
+    width: 100%;
+    height: 100%;
+    margin-right: 5px;
+}
