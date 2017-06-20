@@ -1,1 +1,29 @@
-/* Holiii otra vez */
+/* Estilos generales */
+
+* {
+    /* fuente requerida */
+    font-family: 'Merriweather Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Estilos para la navbar */
+
+.btn-search {
+    background-color: #eb4646;
+    margin-top: 10px;
+}
+
+.fa-lupa {
+    color: white;
+}
+
+ul li a {
+    color: black
+}
+
+.navbar-default {
+    background-color: transparent;
+    border: 0 solid transparent;
+}
