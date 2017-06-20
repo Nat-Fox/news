@@ -31,7 +31,7 @@ ul li a {
 
 /* linea */
 
-hr {
+.primer-hr {
     border: 1px solid #eb4646;
 }
 
@@ -100,3 +100,35 @@ hr {
 .video {
     margin-top: 100px;
 }
+
+
+/* section 3 */
+
+#section-tres {
+    margin-bottom: 50px;
+}
+
+.second-line {
+    width: 60%;
+    border: 1px solid #eb4646;
+}
+
+.subtitle {
+    margin-top: 5px;
+    color: gray;
+}
+
+.color-text {
+    color: #eb4646;
+}
+
+.grey-text {
+    color: gray;
+}
+
+.second-row-photo {
+    margin-top: 25px;
+}
+
+
+/* section tres */
