@@ -63,3 +63,40 @@ hr {
     height: 100%;
     margin-right: 5px;
 }
+
+
+/* section dos */
+
+#section-dos {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.first-grid,
+.second-grid {
+    margin-bottom: 10px;
+}
+
+.division-grid {
+    border: 0.2px solid gainsboro;
+}
+
+.redes-sociales-img {
+    margin-bottom: 15px;
+}
+
+.title-popular {
+    color: #eb4646;
+}
+
+.color-icon {
+    color: #eb4646;
+}
+
+.grey-icon {
+    color: grey;
+}
+
+.video {
+    margin-top: 100px;
+}
