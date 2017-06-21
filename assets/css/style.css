@@ -144,3 +144,146 @@ ul li a {
 .subir {
     margin-top: -120px;
 }
+
+.second {
+    margin-top: 50px;
+}
+
+.icon-white {
+    color: white;
+}
+
+.size {
+    font-size: 22px;
+}
+
+.btn-minus {
+    background-color: #eb4646;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.btn-plus {
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.third {
+    margin-top: 50px;
+}
+
+.envato {
+    color: #0101DF;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.text-m {
+    font-size: 12px;
+}
+
+.img-like {
+    margin-right: 10px;
+}
+
+.mrg-left {
+    margin-left: -45px;
+}
+
+
+/* section gente fb */
+
+.bold {
+    font-weight: bold;
+    cursor: pointer
+}
+
+.nombre {
+    text-align: center;
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.logo-fb {
+    margin-top: -4px;
+}
+
+
+/* galeria de fotos */
+
+.galery {
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+.buss-sport {
+    margin-top: 35px;
+}
+
+.title-business {
+    margin-top: 10px;
+}
+
+
+/* section find */
+
+#find-us {
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+#map {
+    height: 50vh;
+    border: 2px solid #eb4646;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+#first-input,
+#second-input {
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+.btn-show {
+    background-color: #eb4646;
+    color: white;
+    width: 60%;
+}
+
+
+/*footer*/
+
+#footer {
+    margin-bottom: 50px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.icon {
+    margin-bottom: 5px;
+}
+
+.img-footer {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.footer-text {
+    font-size: 12px;
+}
+
+.footer-final {
+    text-align: right;
+    border-bottom: 4px solid #eb4646;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.copy-rigths {
+    background-color: #eb4646;
+    color: white;
+    padding: 5px;
+}
